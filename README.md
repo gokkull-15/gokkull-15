@@ -4,7 +4,7 @@
 <h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gokkull-15&label=Profile%20views&color=0e75b6&style=flat" alt="gokkull-15" /> </p>
-<a href="#vmmuthu31-title">
+<a href="#gokkull-15-title">
   <img src="https://github-readme-stats.vercel.app/api?username=gokkull-15&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="gokkull-15" align="right" />
 </a>
 
